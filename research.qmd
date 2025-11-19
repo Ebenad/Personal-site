@@ -1,1 +1,21 @@
-research.qmd
+---
+title: "Research"
+---
+
+# Research
+
+## Political Use of Anti-Corruption Efforts in Nigeria  
+*Dissertation project*
+
+(Write 3–5 sentences here later.)
+
+## Local Infrastructure Inequality and Political Accountability  
+*Working paper*
+
+(Write 3–5 sentences here later.)
+
+## Other Projects
+
+- Energy poverty and electricity arrears  
+- Elite defection and party switching  
+- Trust, immigration, and public opinion  

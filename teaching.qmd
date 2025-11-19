@@ -1,1 +1,13 @@
-teaching.qmd
+---
+title: "Teaching"
+---
+
+# Teaching
+
+## Tulane University
+
+### Comparative Politics (Instructor)
+Semester • short description of course content and your approach.
+
+### Other Teaching Roles
+- Course – role – semester  

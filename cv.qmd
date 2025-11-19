@@ -1,1 +1,9 @@
-cv.qmd
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+[Download CV](cv.pdf)
+
+<embed src="cv.pdf" type="application/pdf" width="100%" height="850px" />
