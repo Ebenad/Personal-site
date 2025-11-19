@@ -5,6 +5,14 @@ page-title: false
 
 ## Published Papers
 
+### **Where are the ethics? AI and the digital economy in Nigeria**  
+*Policy & Internet (2025), with M. Alakitan*  
+
+This article investigates the ethical and governance challenges that accompany the rapid expansion of digital technologies and AI systems in Nigeria. We identify gaps in regulatory oversight and data protection that expose citizens to privacy violations and other digital harms. The paper argues for a stronger ethical and policy framework to guide responsible AI adoption in Nigeria’s public and private sectors.  
+[Read Article](https://doi.org/10.1002/poi3.416)
+
+---
+
 ### **Leveraging artificial intelligence for enhanced tax fraud detection in modern fiscal systems**  
 *GSC Advanced Research and Reviews (2024), with K.O. Ariyibi, O.F. Bello, T.F. Ekundayo, O.I. Oladepo, and I.U. Wada*
 
@@ -13,13 +21,6 @@ This paper examines how artificial intelligence (AI) can strengthen modern tax a
 
 ---
 
-### **Where are the ethics? AI and the digital economy in Nigeria**  
-*Policy & Internet (2024), with M. Alakitan*  
-
-This article investigates the ethical and governance challenges that accompany the rapid expansion of digital technologies and AI systems in Nigeria. We identify gaps in regulatory oversight and data protection that expose citizens to privacy violations and other digital harms. The paper argues for a stronger ethical and policy framework to guide responsible AI adoption in Nigeria’s public and private sectors.  
-[Read Article](https://doi.org/10.1002/poi3.416)
-
----
 
 ### **Harnessing artificial intelligence to optimize financial technologies for achieving sustainable development goals**  
 *World Journal of Advanced Research and Reviews (2024), with O. Elias, S.D. Esebre, I. Abijo, M.T. Adesina, T.D. Babayemi, O.I. Oladepo, and I.E. Fatoki*  
