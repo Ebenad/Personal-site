@@ -1,1 +1,15 @@
-index.qmd
+---
+title: "Home"
+---
+
+# Ebenezer Makinde
+
+_PhD Candidate in Political Science_  
+
+I study anti-corruption politicization, elite political behavior, and how
+citizens respond to institutionalized corruption. My research spans comparative
+politics, African political economy, and public policy, with a focus on Nigeria.
+
+- **Research:** Anti-corruption, political economy, African politics, public policy  
+- **Email:** your@email.com  
+- **CV:** [Download CV](cv.pdf)
