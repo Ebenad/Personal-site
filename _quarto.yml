@@ -23,6 +23,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: false
     css: styles.css

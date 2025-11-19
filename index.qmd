@@ -7,14 +7,17 @@ page-title: false
 **PhD Candidate in Political Science**  
 **[Tulane University](https://liberalarts.tulane.edu/political-science)**  
 
-<br>
 
-**Contact & Profiles** 
+::: {.contact-box}
 
- ✉️ [Email](mailto:emakinde@tulane.edu)  
- 💼 [LinkedIn](https://www.linkedin.com/in/ebenezermakinde/)  
- 💻 [GitHub](https://github.com/Ebenad)  
- 📚 [Google Scholar](https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en)  
+### Contact & Profiles
+
+- ✉️ [Email](mailto:emakinde@tulane.edu)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebenezermakinde/)  
+- 💻 [GitHub](https://github.com/Ebenad)  
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en)
+
+:::
 
 
 ## Welcome
