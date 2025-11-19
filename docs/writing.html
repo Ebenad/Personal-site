@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ebenezer Makinde</title>
+<title>Writing – Ebenezer Makinde</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -68,7 +70,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -91,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -107,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writing.html"> 
+    <a class="nav-link active" href="./writing.html" aria-current="page"> 
 <span class="menu-text">Writing</span></a>
   </li>  
 </ul>
@@ -123,33 +183,62 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Writing</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<section id="ebenezer-o.-makinde" class="level3">
-<h3 class="anchored" data-anchor-id="ebenezer-o.-makinde">Ebenezer O. Makinde</h3>
-<p><strong>PhD Candidate in Political Science</strong><br>
-<strong><a href="https://liberalarts.tulane.edu/political-science">Tulane University</a></strong></p>
-<p><br></p>
-<p><strong>Contact &amp; Profiles</strong></p>
-<p>✉️ <a href="mailto:emakinde@tulane.edu">Email</a><br>
-💼 <a href="https://www.linkedin.com/in/ebenezermakinde/">LinkedIn</a><br>
-💻 <a href="https://github.com/Ebenad">GitHub</a><br>
-📚 <a href="https://scholar.google.com/citations?user=L7VuBQUAAAAJ&amp;hl=en">Google Scholar</a></p>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="writing" class="level1">
+<h1>Writing</h1>
+<p>Here you’ll find some of my non-academic writing, including book summaries, reflections, and commentary on politics, policy, and research.</p>
+
+
+
 </section>
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p>I am a PhD candidate in Political Science at <a href="https://liberalarts.tulane.edu/political-science/people/graduate-students/ebenezer-o-makinde"><em>Tulane University</em></a>. My ongoing dissertation project examines the political consequences of anti-corruption politicization. I study how governments use anti-corruption agencies (ACAs) strategically—sometimes to genuinely reduce corruption, and other times, to punish rivals and protect allies—and how these actions shape the behavior of political elites and citizens.</p>
-<p>My broader research agenda spans comparative politics, African political economy, and public policy, with a regional focus on Nigeria and Africa. I work extensively with original and administrative data on corruption prosecutions, public opinion, political behavior, and governance outcomes, and I mostly use quantitative methods, causal inference tools, and mixed-methods approaches (including interviews, archival data, survey experiments).</p>
-<p>In my other ongoing projects, I am examining the political economy of corruption prosecution outcomes in Nigeria, African public opinion on great-power competition in Africa, and government–NGO relations in Nigeria. My works have been published in peer-reviewed journals including <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.416"><em>Policy &amp; Internet</em></a>, <a href="https://brill.com/view/journals/prot/4/1/article-p5_002.xml?ebody=Abstract%2FExcerpt"><em>Protest</em></a>, <a href="https://wjarr.com/content/harnessing-artificial-intelligence-optimize-financial-technologies-achieving-sustainable"><em>World Journal of Advanced Research and Reviews</em></a>, and <a href="https://gsconlinepress.com/journals/gscarr/content/leveraging-artificial-intelligence-enhanced-tax-fraud-detection-modern-fiscal-systems"><em>GSC Advanced Research and Reviews</em></a>.</p>
-<p>Before graduate school, I held policy and data analytics roles in France, South Africa (remote), and Nigeria, including positions at SCOR Reinsurance and the African Leadership Academy. These experiences continue to inform my interest in evidence-based public policy and the design of institutions that promote government accountability and good governance.</p>
 
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Ym9vayUyMHN1bW1hcnklMkNzdG9pY2lzbSUyQ3BlcnNvbmFsJTIwZ3Jvd3Ro" data-listing-date-sort="1731996000000" data-listing-file-modified-sort="1763587062242" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<div class="thumbnail"><a href="./writing/obstacle-is-the-way.html" class="no-external">
 
-</section>
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
 
-</main> <!-- /main -->
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./writing/obstacle-is-the-way.html" class="no-external">Book Summary: <em>The Obstacle Is the Way</em></a>
+</h3>
+<div class="delink listing-description"><a href="./writing/obstacle-is-the-way.html" class="no-external">
+Do you remember the famous quote: “when life gives you lemons, make lemonade”? It works as the perfect one-sentence summary of Ryan Holiday’s <em>The Obstacle Is the Way</em>.…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./writing/obstacle-is-the-way.html" class="no-external">
+<div class="listing-date">
+Nov 19, 2024
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

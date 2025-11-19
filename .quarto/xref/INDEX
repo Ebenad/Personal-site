@@ -10,5 +10,11 @@
   },
   "cv.qmd": {
     "cv.html": "cdfd91d8"
+  },
+  "writing.qmd": {
+    "writing.html": "896fa576"
+  },
+  "writing/obstacle-is-the-way.qmd": {
+    "obstacle-is-the-way.html": "479d907a"
   }
 }

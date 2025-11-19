@@ -4,6 +4,7 @@ project:
   resources:
     - CNAME
 
+
 website:
   title: "Ebenezer Makinde"
   navbar:
@@ -16,6 +17,9 @@ website:
         text: Teaching
       - href: cv.qmd
         text: CV
+      - href: writing.qmd
+        text: Writing
+
 
 format:
   html:

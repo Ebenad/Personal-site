@@ -1,0 +1,13 @@
+---
+title: "Writing"
+page-title: true
+listing:
+  contents: writing
+  sort: "date desc"
+  type: default
+---
+
+# Writing
+
+Here you’ll find some of my non-academic writing, including book summaries,
+reflections, and commentary on politics, policy, and research.
