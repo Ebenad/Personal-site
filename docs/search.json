@@ -16,7 +16,7 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "Curriculum Vitae\nDownload CV"
   },
@@ -31,22 +31,50 @@
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Ebenezer Makinde",
-    "section": "Welcome",
-    "text": "Welcome\nI am a PhD candidate in Political Science at Tulane University. My ongoing dissertation project examines the political consequences of anti-corruption politicization. I study how governments use anti-corruption agencies (ACAs) strategically—sometimes to genuinely reduce corruption, and other times, to punish rivals and protect allies—and how these actions shape the behavior of political elites and citizens.\nMy broader research agenda spans comparative politics, African political economy, and public policy, with a regional focus on Nigeria and Africa. I work extensively with original and administrative data on corruption prosecutions, public opinion, political behavior, and governance outcomes, and I mostly use quantitative methods, causal inference tools, and mixed-methods approaches (including interviews, archival data, survey experiments).\nIn my other ongoing projects, I am examining the political economy of corruption prosecution outcomes in Nigeria, African public opinion on great-power competition in Africa, and government–NGO relations in Nigeria. My works have been published in peer-reviewed journals including Policy & Internet, Protest, World Journal of Advanced Research and Reviews, and GSC Advanced Research and Reviews.\nBefore graduate school, I held policy and data analytics roles in France, South Africa (remote), and Nigeria, including positions at SCOR Reinsurance and the African Leadership Academy. These experiences continue to inform my interest in evidence-based public policy and the design of institutions that promote government accountability and good governance."
+    "section": "Welcome!",
+    "text": "Welcome!\nI am a PhD candidate in Political Science at Tulane University. My ongoing dissertation project examines the political consequences of anti-corruption politicization. I study how governments use anti-corruption agencies (ACAs) strategically—sometimes to genuinely reduce corruption, and other times, to punish rivals and protect allies—and how these actions shape the behavior of political elites and citizens.\nMy broader research agenda spans comparative politics, African political economy, and public policy, with a regional focus on Nigeria and Africa. I work extensively with original and administrative data on corruption prosecutions, public opinion, political behavior, and governance outcomes, and I mostly use quantitative methods, causal inference tools, and mixed-methods approaches (including interviews, archival data, survey experiments).\nIn my other ongoing projects, I am examining the political economy of corruption prosecution outcomes in Nigeria, African public opinion on great-power competition in Africa, and government–NGO relations in Nigeria. My works have been published in peer-reviewed journals including Policy & Internet, Protest, World Journal of Advanced Research and Reviews, and GSC Advanced Research and Reviews.\nBefore graduate school, I held policy and data analytics roles in France, South Africa (remote), and Nigeria, including positions at SCOR Reinsurance and the African Leadership Academy. These experiences continue to inform my interest in evidence-based public policy and the design of institutions that promote government accountability and good governance."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching",
+    "title": "Ebenezer Makinde",
     "section": "",
-    "text": "Semester • short description of course content and your approach.\n\n\n\n\nCourse – role – semester"
+    "text": "I have had the opportunity to teach and serve as a teaching assistant for courses in comparative politics, research methods, and quantitative methods at Tulane University. In my teaching, I try my very best to offer clear explanations of core concepts, provide structured guidance and practice in quantitative and computational social science, and help students connect abstract theories to real-world cases, especially in African politics, public policy, and political economy."
   },
   {
-    "objectID": "teaching.html#tulane-university",
-    "href": "teaching.html#tulane-university",
-    "title": "Teaching",
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Ebenezer Makinde",
     "section": "",
-    "text": "Semester • short description of course content and your approach.\n\n\n\n\nCourse – role – semester"
+    "text": "I have had the opportunity to teach and serve as a teaching assistant for courses in comparative politics, research methods, and quantitative methods at Tulane University. In my teaching, I try my very best to offer clear explanations of core concepts, provide structured guidance and practice in quantitative and computational social science, and help students connect abstract theories to real-world cases, especially in African politics, public policy, and political economy."
+  },
+  {
+    "objectID": "teaching.html#courses-as-instructor",
+    "href": "teaching.html#courses-as-instructor",
+    "title": "Ebenezer Makinde",
+    "section": "Courses as Instructor",
+    "text": "Courses as Instructor\n\nPolitical Institutions, Ethnic Conflict, and Fiscal Policy\nLecture Instructor, Introduction to Comparative Politics\nTulane University, Spring 2024\nDelivered a guest lecture module, in my capacity as a teaching assistant for Introduction to Comparative Politics, on how political institutions and ethnic cleavages shape conflict dynamics and fiscal policy choices in different countries. The session combined theoretical frameworks with empirical examples from Africa, Latin America and other regions, and introduced students to key debates in comparative political economy.\n\n\nEthics in Political Science Research\nGuest Lecturer, Scope and Methods\nTulane University, Fall 2023"
+  },
+  {
+    "objectID": "teaching.html#gave-a-guest-lecture-on-research-ethics-focusing-on-informed-consent-confidentiality-power-dynamics-in-fieldwork-and-responsible-use-of-administrative-and-survey-data.-the-session-emphasized-practical-ethical-dilemmas-that-arise-in-social-science-research-particularly-those-that-involved-vulnerable-populations.",
+    "href": "teaching.html#gave-a-guest-lecture-on-research-ethics-focusing-on-informed-consent-confidentiality-power-dynamics-in-fieldwork-and-responsible-use-of-administrative-and-survey-data.-the-session-emphasized-practical-ethical-dilemmas-that-arise-in-social-science-research-particularly-those-that-involved-vulnerable-populations.",
+    "title": "Ebenezer Makinde",
+    "section": "Gave a guest lecture on research ethics, focusing on informed consent, confidentiality, power dynamics in fieldwork, and responsible use of administrative and survey data. The session emphasized practical ethical dilemmas that arise in social science research, particularly those that involved vulnerable populations.",
+    "text": "Gave a guest lecture on research ethics, focusing on informed consent, confidentiality, power dynamics in fieldwork, and responsible use of administrative and survey data. The session emphasized practical ethical dilemmas that arise in social science research, particularly those that involved vulnerable populations."
+  },
+  {
+    "objectID": "teaching.html#workshops",
+    "href": "teaching.html#workshops",
+    "title": "Ebenezer Makinde",
+    "section": "Workshops",
+    "text": "Workshops\n\nR Programming Language for Data Analytics and Statistical Modelling\nInstructor, Workshop Series\nTulane University, Fall 2024\nDesigned and led a workshop series, while serving as a teaching assistant for Graduate Quantitative Methods course, that introduced students to how to use R programming for data cleaning, visualization, and basic statistical modelling. Topics included data import and wrangling, descriptive analysis, regression models, and good practices for reproducible research."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistantships",
+    "href": "teaching.html#teaching-assistantships",
+    "title": "Ebenezer Makinde",
+    "section": "Teaching Assistantships",
+    "text": "Teaching Assistantships\n\nScope and Methods (Undergraduate)\nTeaching Assistant, Tulane University\n- Spring 2025 (with Prof. Virginia Oliveros)\n- Fall 2023 (with Prof. Stan Oklobdzija)\nSupported students in learning core concepts in research design, causal inference, measurement, and basic statistics. Led discussion sections, held office hours, graded assignments, and provided feedback on research proposals and empirical projects.\n\n\n\nGraduate Quantitative Methods\nTeaching Assistant, Tulane University\n- Fall 2024 (with Prof. Stan Oklobdzija)\nAssisted in an intensive graduate-level methods course covering linear regression, nonlinear probability models, regression discontinuity, difference-in-differences, and applied causal inference. Supported students with problem sets, coding in R, and empirical research applications.\n\n\n\nIntroduction to Comparative Politics\nTeaching Assistant, Tulane University\n- Spring 2024 (with Prof. Moisés Arce)\nSupported an introductory comparative politics course covering regime types, democratization, political institutions, and contentious politics. Responsibilities included grading, discussion support, and helping students connect course concepts to contemporary cases."
   },
   {
     "objectID": "research.html",

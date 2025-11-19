@@ -1,5 +1,6 @@
 ---
-title: "CV"
+title: ""
+page-title: false
 ---
 
 # Curriculum Vitae
