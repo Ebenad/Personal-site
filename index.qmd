@@ -10,6 +10,7 @@ page-title: false
 <br>
 
 **Contact & Profiles** 
+
  ✉️ [Email](mailto:emakinde@tulane.edu)  
  💼 [LinkedIn](https://www.linkedin.com/in/ebenezermakinde/)  
  💻 [GitHub](https://github.com/Ebenad)  
@@ -18,7 +19,7 @@ page-title: false
 
 ## Welcome
 
-I am a PhD candidate in Political Science at [Tulane University](https://liberalarts.tulane.edu/political-science/people/graduate-students/ebenezer-o-makinde). My ongoing dissertation project examines the political consequences of anti-corruption politicization. I study how governments use anti-corruption agencies (ACAs) strategically—sometimes to genuinely reduce corruption, and other times, to punish rivals and protect allies—and how these actions shape the behavior of political elites and citizens.
+I am a PhD candidate in Political Science at [*Tulane University*](https://liberalarts.tulane.edu/political-science/people/graduate-students/ebenezer-o-makinde). My ongoing dissertation project examines the political consequences of anti-corruption politicization. I study how governments use anti-corruption agencies (ACAs) strategically—sometimes to genuinely reduce corruption, and other times, to punish rivals and protect allies—and how these actions shape the behavior of political elites and citizens.
 
 My broader research agenda spans comparative politics, African political economy, and public policy, with a regional focus on Nigeria and Africa. I work extensively with original and administrative data on corruption prosecutions, public opinion, political behavior, and governance outcomes, and I mostly use quantitative methods, causal inference tools, and mixed-methods approaches (including interviews, archival data, survey experiments).
 
