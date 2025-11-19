@@ -1,0 +1,12 @@
+/* Make links in the main content look like normal text */
+.content a,
+.content a:visited {
+  color: inherit;          /* same color as surrounding text */
+  text-decoration: none;   /* remove underline */
+}
+
+/* Optional: show underline on hover so users know it's clickable */
+.content a:hover,
+.content a:focus {
+  text-decoration: underline;
+}
