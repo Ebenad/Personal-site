@@ -3,7 +3,7 @@ title: ""
 page-title: false
 ---
 
-## Published Papers
+# Published Papers
 
 ### **Where are the ethics? AI and the digital economy in Nigeria**  
 *Policy & Internet (2025), with M. Alakitan*  
@@ -38,7 +38,7 @@ When do social movements achieve political outcomes? Existing research points to
 
 
 
-## Working Papers
+# Working Papers
 
 ### **Who Gets Convicted? The Political Economy of Corruption Prosecution Outcomes in Nigeria**  
 
