@@ -3,10 +3,7 @@ title: ""
 page-title: false
 ---
 
-::: {.columns}
-
-::: {.column width="40%"}
-
+### Ebenezer O. Makinde 
 **PhD Candidate in Political Science**  
 **[Tulane University](https://liberalarts.tulane.edu/political-science)**  
 
@@ -18,9 +15,6 @@ page-title: false
 - [LinkedIn](https://www.linkedin.com/in/ebenezermakinde/)  
 - [GitHub](https://github.com/Ebenad)  
 
-:::
-
-::: {.column width="60%"}
 
 ## Welcome
 
@@ -32,9 +26,6 @@ In my other ongoing projects, I am examining the political economy of corruption
 
 Before graduate school, I held policy and data analytics roles in France, South Africa (remote), and Nigeria, including positions at SCOR Reinsurance and the African Leadership Academy. These experiences continue to inform my interest in evidence-based public policy and the design of institutions that promote government accountability and good governance.
 
-:::
-
-:::
 
 
 
