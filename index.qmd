@@ -5,7 +5,7 @@ page-title: false
 
 ::: {.columns}
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 
 ### Ebenezer O. Makinde  
 
@@ -22,7 +22,7 @@ Tulane University
 
 :::
 
-::: {.column width="70%"}
+::: {.column width="60%"}
 
 ## Welcome
 
