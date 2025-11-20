@@ -6,7 +6,7 @@ class: home-page
 
 :::{.columns}
 
-::: {.column}
+:::{.column width=0.24}
 
 ::: {.home-card}
 
@@ -28,7 +28,7 @@ class: home-page
 :::
 :::
 
-::: {.column}
+:::{.column width=0.76}
 
 ## Welcome!
 
