@@ -4,12 +4,25 @@ page-title: false
 class: home-page
 ---
 
-<!-- Photo at the very top, centered -->
-![](images/profile.jpg){style="max-width:180px; border-radius:50%; display:block; margin: 0 auto 1.5rem auto;"}
+<div class="home-header">
 
-### Ebenezer O. Makinde  
-**PhD Candidate in Political Science**  
-**[Tulane University](https://liberalarts.tulane.edu/political-science)**  
+  <div class="home-header-text">
+    <h3 style="margin-bottom: 4px;">Ebenezer O. Makinde</h3>
+    <p style="margin: 0;"><strong>PhD Candidate in Political Science</strong></p>
+    <p style="margin: 0;">
+      <strong>
+        <a href="https://liberalarts.tulane.edu/political-science">
+          Tulane University
+        </a>
+      </strong>
+    </p>
+  </div>
+
+  <div class="home-header-photo">
+    <img src="images/profile.jpg" alt="Ebenezer O. Makinde">
+  </div>
+
+</div>
 
 ---
 
