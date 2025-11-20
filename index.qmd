@@ -3,31 +3,26 @@ title: ""
 page-title: false
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+:::{.columns}
 
-  <img src="profile.jpg" alt="Ebenezer O. Makinde"
-       style="width: 180px; border-radius: 12px; flex-shrink: 0;">
+::: {.column width="40%"}
+![](profile.jpg){fig-alt="Ebenezer O. Makinde" style="border-radius: 12px; max-width: 100%; margin-top: 4px;"}
+:::
 
-  <div>
-    <h2 style="margin-bottom: 5px;">Ebenezer O. Makinde</h2>
-    <p style="margin: 0;"><strong>PhD Candidate in Political Science</strong></p>
-    <p style="margin: 0;">
-      <strong>
-        <a href="https://liberalarts.tulane.edu/political-science">
-          Tulane University
-        </a>
-      </strong>
-    </p>
-  </div>
+::: {.column width="70%"}
+### Ebenezer O. Makinde 
+**PhD Candidate in Political Science**  
+**[Tulane University](https://liberalarts.tulane.edu/political-science)**  
+:::
 
-</div>
+:::
 
 ::: {.contact-box}
 
 ### Contact & Profiles
 
 - ✉️ [Email](mailto:emakinde@tulane.edu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ebenezermakinde/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebenezer-makinde/)  
 - 💻 [GitHub](https://github.com/Ebenad)  
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en)
 
