@@ -69,19 +69,14 @@ hr {
   flex: 0 0 auto;
 }
 
-/* style the image on the right */
-.home-page .home-header-photo img {
-  border-radius: 50%;
-  max-width: 100px;      /* change this to 140/180 if you want smaller/bigger */
-  display: block;
-}
 
-.home-photo {
-  width: 100px !important;      /* ← change this number to resize */
-  max-width: 120px !important;  /* ← makes it obey your width */
+/* ---- HOME IMAGE: force it small and round ---- */
+.home-page .home-photo {
+  width: 100px !important;       
+  max-width: 100px !important;   /* keep this the same as width */
   height: auto;
-  border-radius: 50%;           /* ← makes it round */
+  border-radius: 50%;            /* ← round image */
   display: block;
-  margin-left: auto;
+  margin-left: auto;             /* push to the right within its column */
 }
 
