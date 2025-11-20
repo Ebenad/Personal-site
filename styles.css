@@ -33,7 +33,7 @@ hr {
   border-top: 1px solid var(--accent-color);
 }
 
-/* --- Contact box styling you can use elsewhere --- */
+/* --- Contact box styling (if you use it elsewhere) --- */
 .contact-box {
   background: var(--accent-soft);
   padding: 16px 18px;
@@ -53,14 +53,18 @@ hr {
 .home-page .mp-wrapper {
   display: flex;
   align-items: flex-start;
-  gap: 32px;                 /* space between card & text */
-  max-width: 1000px;         /* match body-width in _quarto.yml */
-  margin: 1.5rem auto 0 auto;
+  gap: 36px;               /* space between sidebar & main text */
+  max-width: 1000px;       /* match body-width from _quarto.yml */
+  margin: 2rem auto 3rem auto;
 }
 
-/* Left sidebar card */
+/* Left sidebar */
+.home-page .mp-sidebar {
+  flex: 0 0 260px;         /* fixed width, like Melissa's card */
+}
+
+/* Card box in sidebar */
 .home-page .mp-card {
-  flex: 0 0 260px;           /* fixed width card, like Melissa's */
   background: #f8f9fa;
   border-radius: 12px;
   padding: 20px 18px;
@@ -68,15 +72,15 @@ hr {
   text-align: left;
 }
 
-/* Circular photo inside the card */
+/* Circular photo */
 .home-page .mp-photo {
   border-radius: 50%;
-  width: 150px;              /* adjust this to make image smaller/bigger */
+  width: 150px;            /* adjust to taste (150–180) */
   display: block;
   margin: 0 auto 15px auto;
 }
 
-/* Name + subtitle (inside card) */
+/* Name + subtitle */
 .home-page .mp-name {
   font-size: 1.1rem;
   font-weight: 700;
@@ -89,7 +93,7 @@ hr {
   margin-bottom: 14px;
 }
 
-/* Links list (inside card) */
+/* Sidebar links */
 .home-page .mp-links {
   list-style: none;
   padding-left: 0;
