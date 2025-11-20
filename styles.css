@@ -54,7 +54,7 @@ hr {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 24px;             /* space between text and image */
+  gap: 20px;             /* space between text and image */
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
@@ -72,6 +72,6 @@ hr {
 /* style the image on the right */
 .home-page .home-header-photo img {
   border-radius: 50%;
-  max-width: 140px;      /* change this to 140/180 if you want smaller/bigger */
+  max-width: 100px;      /* change this to 140/180 if you want smaller/bigger */
   display: block;
 }

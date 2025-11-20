@@ -8,12 +8,12 @@ class: home-page
 
 ::: {.column width=0.65}
 
-### Ebenezer O. Makinde  
+## Ebenezer O. Makinde  
 **PhD Candidate in Political Science**  
 [Tulane University](https://liberalarts.tulane.edu/political-science)
 
 
-## Contact & Profiles
+#### Contact & Profiles
 - ✉️ [Email](mailto:emakinde@tulane.edu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ebenezermakinde/)  
 - 💻 [GitHub](https://github.com/Ebenad)  
@@ -31,7 +31,7 @@ class: home-page
 
 ---
 
-## Welcome!
+#### Welcome!
 
 I am a PhD candidate in Political Science at [*Tulane University*](https://liberalarts.tulane.edu/political-science/people/graduate-students/ebenezermakinde). My ongoing dissertation project examines the political consequences of anti-corruption politicization. I study how governments use anti-corruption agencies (ACAs) strategically—sometimes to genuinely reduce corruption, and other times, to punish rivals and protect allies—and how these actions shape the behavior of political elites and citizens.
 
