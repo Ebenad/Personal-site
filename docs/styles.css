@@ -67,7 +67,7 @@ hr {
 .home-name {
   font-size: 1.1rem;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 6px;
 }
 
 /* Gap between the two home columns */
@@ -80,7 +80,7 @@ hr {
 .home-subtitle {
   font-size: 0.95rem;
   color: #555;
-  margin-bottom: 20px;
+  margin-bottom: 14px;
 }
 
 .home-links {
@@ -90,7 +90,12 @@ hr {
 }
 
 .home-links li {
-  margin-bottom: 20px;
+  margin-bottom: 6px;
+}
+
+/* Extra space between the left card and the bio column on the home page */
+.home-page .columns > .column:last-child {
+  margin-left: 2rem;   /* increase to 3rem or 4rem if you want a bigger gap */
 }
 
 
