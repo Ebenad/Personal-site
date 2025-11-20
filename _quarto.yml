@@ -4,7 +4,6 @@ project:
   resources:
     - CNAME
 
-
 website:
   title: "Ebenezer Makinde"
   navbar:
@@ -20,9 +19,11 @@ website:
       - href: writing.qmd
         text: Writing
 
-
 format:
   html:
     theme: flatly
     toc: false
     css: styles.css
+    page-layout: full       # use almost full browser width
+    grid:
+      body-width: 1200px    # max width of content area

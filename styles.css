@@ -57,7 +57,7 @@ hr {
   margin: 0 auto 2rem auto;  /* center horizontally */
 }
 
-
+/* profile photo */
 .home-photo {
   border-radius: 50%;
   width: 180px;
@@ -65,11 +65,12 @@ hr {
   margin: 0 auto 15px auto;
 }
 
-
+/* right-side text container */
 .home-page .home-text {
   flex: 1 1 auto;            /* this makes the Welcome side wide */
 }
 
+/* name + subtitle + links styling */
 .home-page .home-name {
   font-size: 1.15rem;
   font-weight: 700;
