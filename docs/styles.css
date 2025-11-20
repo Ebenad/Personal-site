@@ -59,7 +59,7 @@ hr {
 
 .home-photo {
   border-radius: 50%;
-  width: 120px;        /* change to 140/160 if you want smaller/bigger */
+  width: 140px;        /* change to 140/160 if you want smaller/bigger */
   display: block;
   margin: 0 auto 15px auto;
 }
@@ -69,6 +69,13 @@ hr {
   font-weight: 700;
   margin-bottom: 4px;
 }
+
+/* Gap between the two home columns */
+.home-page .columns {
+  display: flex;    /* make the columns sit in a flex row */
+  gap: 32px;        /* space between left card and right text */
+}
+
 
 .home-subtitle {
   font-size: 0.95rem;
@@ -85,3 +92,5 @@ hr {
 .home-links li {
   margin-bottom: 6px;
 }
+
+
