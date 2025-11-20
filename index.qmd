@@ -1,14 +1,13 @@
 ---
 title: ""
 page-title: false
-class: home-page
 ---
 
-::: {.home-layout}
+:::{.columns}
 
-::: {.home-sidebar}
+::: {.column width="30%"}
+
 ::: {.home-card}
-
 ![](images/profile.jpg){.home-photo fig-alt="Ebenezer O. Makinde"}
 
 <div class="home-name">Ebenezer O. Makinde</div>
@@ -23,11 +22,11 @@ class: home-page
   <li>💻 <a href="https://github.com/Ebenad">GitHub</a></li>
   <li>📚 <a href="https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en">Google Scholar</a></li>
 </ul>
-
-:::
 :::
 
-::: {.home-main}
+:::
+
+::: {.column width="70%"}
 
 ## Welcome!
 
@@ -42,6 +41,3 @@ Before graduate school, I held policy and data analytics roles in France, South 
 :::
 
 :::
-
-
-

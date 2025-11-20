@@ -46,25 +46,7 @@ hr {
   margin-bottom: 0;
 }
 
-/* --- Home page profile layout (Melissa-style) --- */
-
-/* Layout wrapper for the two columns on HOME ONLY */
-.home-layout {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: flex-start;
-  margin-top: 4px;
-  gap: 28px;               /* space between image card and Welcome */
-  justify-content: flex-start;
-}
-
-/* Left sidebar/card column */
-.home-sidebar {
-  flex: 0 0 320px;         /* width of the image/card column */
-  max-width: 320px;
-}
-
-/* Card styling around the photo + links */
+/* --- Home page profile card (used in left column) --- */
 .home-card {
   background: #f8f9fa;
   border-radius: 12px;
@@ -73,7 +55,6 @@ hr {
   text-align: left;
 }
 
-/* Circular headshot */
 .home-photo {
   border-radius: 50%;
   width: 180px;
@@ -81,7 +62,6 @@ hr {
   margin: 0 auto 15px auto;
 }
 
-/* Name + subtitle */
 .home-name {
   font-size: 1.05rem;
   font-weight: 700;
@@ -94,7 +74,6 @@ hr {
   margin-bottom: 14px;
 }
 
-/* Links list under the card */
 .home-links {
   list-style: none;
   padding-left: 0;
@@ -103,17 +82,4 @@ hr {
 
 .home-links li {
   margin-bottom: 6px;
-}
-
-/* Right main text column: Welcome text */
-.home-main {
-  flex: 1 1 auto;          /* take all remaining space */
-  min-width: 0;
-}
-
-/* Make ONLY the home page content a bit wider */
-.home-page .content {
-  max-width: 1200px;       /* overall width of Home page content */
-  margin-left: auto;
-  margin-right: auto;
 }
