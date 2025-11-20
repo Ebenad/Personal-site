@@ -3,6 +3,11 @@ title: ""
 page-title: false
 ---
 
+<p align="center">
+  <img src="profile.jpg" alt="Ebenezer O. Makinde" 
+       style="width: 200px; border-radius: 12px; margin-bottom: 10px;">
+</p>
+
 ### Ebenezer O. Makinde 
 **PhD Candidate in Political Science**  
 **[Tulane University](https://liberalarts.tulane.edu/political-science)**  
@@ -13,7 +18,7 @@ page-title: false
 ### Contact & Profiles
 
 - ✉️ [Email](mailto:emakinde@tulane.edu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ebenezermakinde/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebenezemakinde/)  
 - 💻 [GitHub](https://github.com/Ebenad)  
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en)
 
