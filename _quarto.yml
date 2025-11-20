@@ -24,6 +24,6 @@ format:
     theme: flatly
     toc: false
     css: styles.css
-    page-layout: full       # use almost full browser width
+    page-layout: wide       # use almost full browser width
     grid:
       body-width: 1000px    # max width of content area
