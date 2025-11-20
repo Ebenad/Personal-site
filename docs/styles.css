@@ -45,26 +45,11 @@ hr {
   margin-bottom: 0;
 }
 
-/* ====================================== */
-/* HOME PAGE ONLY (class=home-page)      */
-/* Melissa-style sidebar + main content  */
-/* ====================================== */
+/* ============================= */
+/* Home page sidebar card (Melissa-style) */
+/* ============================= */
 
-.home-page .mp-wrapper {
-  display: flex;
-  align-items: flex-start;
-  gap: 36px;               /* space between sidebar & main text */
-  max-width: 1000px;       /* match body-width from _quarto.yml */
-  margin: 2rem auto 3rem auto;
-}
-
-/* Left sidebar */
-.home-page .mp-sidebar {
-  flex: 0 0 260px;         /* fixed width, like Melissa's card */
-}
-
-/* Card box in sidebar */
-.home-page .mp-card {
+.home-card {
   background: #f8f9fa;
   border-radius: 12px;
   padding: 20px 18px;
@@ -72,39 +57,31 @@ hr {
   text-align: left;
 }
 
-/* Circular photo */
-.home-page .mp-photo {
+.home-photo {
   border-radius: 50%;
-  width: 150px;            /* adjust to taste (150–180) */
+  width: 120px;        /* change to 140/160 if you want smaller/bigger */
   display: block;
   margin: 0 auto 15px auto;
 }
 
-/* Name + subtitle */
-.home-page .mp-name {
+.home-name {
   font-size: 1.1rem;
   font-weight: 700;
   margin-bottom: 4px;
 }
 
-.home-page .mp-subtitle {
+.home-subtitle {
   font-size: 0.95rem;
   color: #555;
   margin-bottom: 14px;
 }
 
-/* Sidebar links */
-.home-page .mp-links {
+.home-links {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
 
-.home-page .mp-links li {
+.home-links li {
   margin-bottom: 6px;
-}
-
-/* Right side: main welcome text */
-.home-page .mp-main {
-  flex: 1 1 auto;
 }
