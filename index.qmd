@@ -4,31 +4,24 @@ page-title: false
 class: home-page
 ---
 
-:::{.columns}
+<div class="home-hero">
+  <img src="images/profile.jpg" alt="Ebenezer O. Makinde" class="home-photo">
 
-:::{.column width=0.24}
+  <div class="home-text">
+    <div class="home-name">Ebenezer O. Makinde</div>
+    <div class="home-subtitle">
+      PhD Candidate in Political Science<br>
+      Tulane University
+    </div>
 
-::: {.home-card}
-
-![](images/profile.jpg){.home-photo fig-alt="Ebenezer O. Makinde"}
-
-<div class="home-name">Ebenezer O. Makinde</div>
-<div class="home-subtitle">
-  PhD Candidate in Political Science<br>
-  Tulane University
+    <ul class="home-links">
+      <li>✉️ <a href="mailto:emakinde@tulane.edu">Email</a></li>
+      <li>💼 <a href="https://www.linkedin.com/in/ebenezermakinde/">LinkedIn</a></li>
+      <li>💻 <a href="https://github.com/Ebenad">GitHub</a></li>
+      <li>📚 <a href="https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en">Google Scholar</a></li>
+    </ul>
+  </div>
 </div>
-
-<ul class="home-links">
-  <li>✉️ <a href="mailto:emakinde@tulane.edu">Email</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/ebenezermakinde/">LinkedIn</a></li>
-  <li>💻 <a href="https://github.com/Ebenad">GitHub</a></li>
-  <li>📚 <a href="https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en">Google Scholar</a></li>
-</ul>
-
-:::
-:::
-
-:::{.column width=0.76}
 
 ## Welcome!
 
@@ -39,7 +32,3 @@ My broader research agenda spans comparative politics, African political economy
 In my other ongoing projects, I am examining the political economy of corruption prosecution outcomes in Nigeria, African public opinion on great-power competition in Africa, and government–NGO relations in Nigeria. My works have been published in peer-reviewed journals including *Policy & Internet*, *Protest*, *World Journal of Advanced Research and Reviews*, and *GSC Advanced Research and Reviews*.
 
 Before graduate school, I held policy and data analytics roles in France, South Africa (remote), and Nigeria, including positions at SCOR Reinsurance and the African Leadership Academy. These experiences continue to inform my interest in evidence-based public policy and the design of institutions that promote government accountability and good governance.
-
-:::
-
-:::

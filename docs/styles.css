@@ -33,7 +33,7 @@ hr {
   border-top: 1px solid var(--accent-color);
 }
 
-/* --- Contact box styling on the homepage --- */
+/* --- Contact box styling (you can still use elsewhere) --- */
 .contact-box {
   background: var(--accent-soft);
   padding: 16px 18px;
@@ -41,53 +41,51 @@ hr {
   margin: 1rem 0 1.5rem 0;
 }
 
-/* Make the contact list a bit tighter */
 .contact-box ul {
   margin-bottom: 0;
 }
 
-/* --- Home page profile card (used in left column) --- */
-.home-card {
-  background: #f8f9fa;
-  border-radius: 12px;
-  padding: 20px 18px;
-  border: 1px solid #e0e0e0;
-  text-align: left;
+/* ============================= */
+/* HOME PAGE ONLY (class=home-page) */
+/* ============================= */
+
+.home-page .home-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;                 /* space between image block and text */
+  max-width: 1200px;         /* overall width of this top section */
+  margin: 0 auto 2rem auto;  /* center horizontally */
 }
 
-.home-photo {
+.home-page .home-photo {
   border-radius: 50%;
-  width: 180px;
+  width: 180px;              /* size of your image */
+  flex-shrink: 0;
   display: block;
-  margin: 0 auto 15px auto;
 }
 
-.home-name {
-  font-size: 1.05rem;
+.home-page .home-text {
+  flex: 1 1 auto;            /* this makes the Welcome side wide */
+}
+
+.home-page .home-name {
+  font-size: 1.15rem;
   font-weight: 700;
   margin-bottom: 4px;
 }
 
-.home-subtitle {
+.home-page .home-subtitle {
   font-size: 0.95rem;
   color: #555;
-  margin-bottom: 14px;
+  margin-bottom: 0.75rem;
 }
 
-.home-links {
+.home-page .home-links {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
 
-.home-links li {
-  margin-bottom: 6px;
-}
-
-
-/* Make only the HOME page a bit wider so image and Welcome can breathe more */
-.home-page .content {
-  max-width: 1300px;   /* you can change this: 1100, 1250, etc. */
-  margin-left: auto;
-  margin-right: auto;
+.home-page .home-links li {
+  margin-bottom: 4px;
 }
