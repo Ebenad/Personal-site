@@ -46,28 +46,28 @@ hr {
   margin-bottom: 0;
 }
 
-
-
 /* --- Home page profile layout (Melissa-style) --- */
+/* Wrapper for the two columns (image card + Welcome text) */
 .home-layout {
   display: flex;
   flex-wrap: nowrap;
   align-items: flex-start;
   margin-top: 4px;
 
-  /* controls distance between image + welcome */
-  gap: 24px;
+  /* distance between the image card and Welcome text */
+  gap: 28px;
 
-  /* push content to the left */
+  /* keep everything left-aligned, not centered */
   justify-content: flex-start;
 }
 
-/* Left sidebar card */
+/* Left sidebar/card column */
 .home-sidebar {
-  flex: 0 0 300px;    /* width of the image column */
-  max-width: 300px;
+  flex: 0 0 320px;      /* width of the image/card column */
+  max-width: 320px;
 }
 
+/* Card styling around the photo + links */
 .home-card {
   background: #f8f9fa;
   border-radius: 12px;
@@ -76,13 +76,15 @@ hr {
   text-align: left;
 }
 
+/* Circular headshot */
 .home-photo {
   border-radius: 50%;
-  width: 170px;
+  width: 180px;
   display: block;
   margin: 0 auto 15px auto;
 }
 
+/* Name + subtitle */
 .home-name {
   font-size: 1.05rem;
   font-weight: 700;
@@ -95,6 +97,7 @@ hr {
   margin-bottom: 14px;
 }
 
+/* Links list under the card */
 .home-links {
   list-style: none;
   padding-left: 0;
@@ -105,13 +108,15 @@ hr {
   margin-bottom: 6px;
 }
 
-/* Right main text column */
+/* Right main text column: Welcome text */
 .home-main {
-  flex: 1 1 auto;     /* <- this lets the Welcome text stretch */
+  flex: 1 1 auto;   /* take all remaining space */
+  min-width: 0;     /* allow it to shrink nicely if needed */
 }
 
-/* OPTIONAL: make the whole content area a bit wider on the page */
+/* Make the whole content area wider and centered on the page */
 .content {
-  max-width: 1200px;  /* tweak 1000–1200 to taste */
+  max-width: 1200px;   /* total width of the text area */
+  margin-left: auto;
+  margin-right: auto;
 }
-
