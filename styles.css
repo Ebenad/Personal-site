@@ -68,20 +68,20 @@ hr {
 
 /* circular photo like Melissa's */
 .home-page .profile-photo {
-  border-radius: 50%;
-  width: 180px;
+  border-radius: 40%;
+  width: 140px;
   display: block;
   margin: 0 auto 15px auto;
 }
 
 .home-page .profile-name {
-  font-size: 1.05rem;
+  font-size: 1.50rem;
   font-weight: 700;
   margin-bottom: 4px;
 }
 
 .home-page .profile-subtitle {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   color: #555;
   margin-bottom: 14px;
 }
