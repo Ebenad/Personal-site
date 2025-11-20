@@ -33,7 +33,7 @@ hr {
   border-top: 1px solid var(--accent-color);
 }
 
-/* --- Contact box styling (you can still use elsewhere) --- */
+/* --- Contact box styling you can use elsewhere --- */
 .contact-box {
   background: var(--accent-soft);
   padding: 16px 18px;
@@ -50,16 +50,20 @@ hr {
 /* Melissa-style profile layout  */
 /* ============================= */
 
-/* old profile-card layout (kept in case you use it later) */
-.home-page .profile-layout {
-  margin-top: 0.5rem;
+/* Overall two-column layout: card on left, welcome text on right */
+.home-page .mp-layout {
+  display: grid;
+  grid-template-columns: 260px minmax(0, 1fr);  /* left card + flexible right */
+  column-gap: 32px;                             /* space between card & text */
+  align-items: flex-start;
+  margin-top: 1.5rem;
+  max-width: 1000px;                            /* match body width */
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.home-page .profile-sidebar {
-  /* left column handled by Quarto widths if used */
-}
-
-.home-page .profile-card {
+/* Left card */
+.home-page .mp-card {
   background: #f8f9fa;
   border-radius: 12px;
   padding: 20px 18px;
@@ -67,58 +71,39 @@ hr {
   text-align: left;
 }
 
-/* circular photo */
-.home-page .profile-photo {
-  border-radius: 40%;
-  width: 140px;
+/* Circular photo inside the card */
+.home-page .mp-photo {
+  border-radius: 50%;
+  width: 150px;           /* adjust this to make image smaller/bigger */
   display: block;
-  margin: 0 0 15px 0;  /* align left, small space below */
+  margin: 0 auto 15px auto;
 }
 
-.home-page .profile-name {
-  font-size: 1.50rem;
+/* Name + subtitle (inside card) */
+.home-page .mp-name {
+  font-size: 1.1rem;
   font-weight: 700;
   margin-bottom: 4px;
 }
 
-.home-page .profile-subtitle {
-  font-size: 1.05rem;
+.home-page .mp-subtitle {
+  font-size: 0.95rem;
   color: #555;
   margin-bottom: 14px;
 }
 
-.home-page .profile-links {
+/* Links list (inside card) */
+.home-page .mp-links {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
 
-.home-page .profile-links li {
+.home-page .mp-links li {
   margin-bottom: 6px;
 }
 
-/* right column (Welcome text) */
-.home-page .profile-main {
-  /* width handled by Quarto; just spacing tweaks if needed */
-}
-
-/* ============================= */
-/* Home hero row: photo + bio side by side */
-/* ============================= */
-
-.home-page .home-hero {
-  display: flex;
-  align-items: flex-start;
-  gap: 32px;           /* space between image block and bio text */
-  margin-top: 1.5rem;
-}
-
-/* left side (photo + contact) */
-.home-page .home-left {
-  flex: 0 0 auto;
-}
-
-/* right side (Welcome + bio) */
-.home-page .home-right {
-  flex: 1 1 auto;
+/* Right side: main welcome text */
+.home-page .mp-main {
+  /* nothing fancy needed; grid gives it all remaining space */
 }
