@@ -45,25 +45,22 @@ hr {
   margin-bottom: 0;
 }
 
-/* ============================= */
-/* HOME PAGE ONLY (class=home-page) */
-/* Melissa-style profile layout  */
-/* ============================= */
+/* ====================================== */
+/* HOME PAGE ONLY (class=home-page)      */
+/* Melissa-style sidebar + main content  */
+/* ====================================== */
 
-/* Overall two-column layout: card on left, welcome text on right */
-.home-page .mp-layout {
-  display: grid;
-  grid-template-columns: 260px minmax(0, 1fr);  /* left card + flexible right */
-  column-gap: 32px;                             /* space between card & text */
+.home-page .mp-wrapper {
+  display: flex;
   align-items: flex-start;
-  margin-top: 1.5rem;
-  max-width: 1000px;                            /* match body width */
-  margin-left: auto;
-  margin-right: auto;
+  gap: 32px;                 /* space between card & text */
+  max-width: 1000px;         /* match body-width in _quarto.yml */
+  margin: 1.5rem auto 0 auto;
 }
 
-/* Left card */
+/* Left sidebar card */
 .home-page .mp-card {
+  flex: 0 0 260px;           /* fixed width card, like Melissa's */
   background: #f8f9fa;
   border-radius: 12px;
   padding: 20px 18px;
@@ -74,7 +71,7 @@ hr {
 /* Circular photo inside the card */
 .home-page .mp-photo {
   border-radius: 50%;
-  width: 150px;           /* adjust this to make image smaller/bigger */
+  width: 150px;              /* adjust this to make image smaller/bigger */
   display: block;
   margin: 0 auto 15px auto;
 }
@@ -105,5 +102,5 @@ hr {
 
 /* Right side: main welcome text */
 .home-page .mp-main {
-  /* nothing fancy needed; grid gives it all remaining space */
+  flex: 1 1 auto;
 }
