@@ -12,7 +12,7 @@
 
 /* --- Accent colors (deep blue, soft background) --- */
 :root {
-  --accent-color: #004c7f;    /* deep blue */
+  --accent-color: #004c7b;    /* deep blue */
   --accent-soft:  #e7f3fb;    /* very light blue background */
 }
 
@@ -75,3 +75,21 @@ hr {
   max-width: 100px;      /* change this to 140/180 if you want smaller/bigger */
   display: block;
 }
+
+
+/* ---- HARD OVERRIDES FOR HOME PAGE ---- */
+
+/* 1. Force the image to be smaller */
+.home-page .home-photo {
+  width: 110px;        /* set exact size */
+  max-width: 110px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;   /* keep it on the right side of its column */
+}
+
+/* 2. Reduce space between the two columns */
+.home-page .columns > .column:last-child {
+  margin-left: 0.5rem;   /* smaller gap; try 0.25rem for even less */
+}
+
