@@ -23,7 +23,7 @@ class: home-page
 
 ::: {.column width=0.30}
 
-![](images/profile.jpg){fig-alt="Ebenezer O. Makinde" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto;"}
+![](images/profile.jpg){fig-alt="Ebenezer O. Makinde" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto;"}
 
 
 :::
