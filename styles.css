@@ -53,10 +53,10 @@ hr {
   display: flex;
   flex-wrap: nowrap;
   align-items: flex-start;
-  margin-top: 10px;
+  margin-top: 4px;
 
   /* controls distance between image + welcome */
-  gap: 32px;
+  gap: 24px;
 
   /* push content to the left */
   justify-content: flex-start;
@@ -112,6 +112,6 @@ hr {
 
 /* OPTIONAL: make the whole content area a bit wider on the page */
 .content {
-  max-width: 1100px;  /* tweak 1000–1200 to taste */
+  max-width: 1200px;  /* tweak 1000–1200 to taste */
 }
 
