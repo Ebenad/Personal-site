@@ -6,9 +6,9 @@ class: home-page
 
 :::{.columns}
 
-::: {.column width=0.65}
+::: {.column width=0.70}
 
-# Ebenezer O. Makinde  
+## Ebenezer O. Makinde  
 **PhD Candidate in Political Science**  
 [Tulane University](https://liberalarts.tulane.edu/political-science)
 
@@ -21,7 +21,7 @@ class: home-page
 
 :::
 
-::: {.column width=0.35}
+::: {.column width=0.30}
 
 ![](images/profile.jpg){.home-photo fig-alt="Ebenezer O. Makinde"}
 
