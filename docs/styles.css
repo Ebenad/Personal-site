@@ -47,23 +47,20 @@ hr {
 }
 
 /* --- Home page profile layout (Melissa-style) --- */
-/* Wrapper for the two columns (image card + Welcome text) */
+
+/* Layout wrapper for the two columns on HOME ONLY */
 .home-layout {
   display: flex;
   flex-wrap: nowrap;
   align-items: flex-start;
   margin-top: 4px;
-
-  /* distance between the image card and Welcome text */
-  gap: 28px;
-
-  /* keep everything left-aligned, not centered */
+  gap: 28px;               /* space between image card and Welcome */
   justify-content: flex-start;
 }
 
 /* Left sidebar/card column */
 .home-sidebar {
-  flex: 0 0 320px;      /* width of the image/card column */
+  flex: 0 0 320px;         /* width of the image/card column */
   max-width: 320px;
 }
 
@@ -110,13 +107,13 @@ hr {
 
 /* Right main text column: Welcome text */
 .home-main {
-  flex: 1 1 auto;   /* take all remaining space */
-  min-width: 0;     /* allow it to shrink nicely if needed */
+  flex: 1 1 auto;          /* take all remaining space */
+  min-width: 0;
 }
 
-/* Make the whole content area wider and centered on the page */
-.content {
-  max-width: 1200px;   /* total width of the text area */
+/* Make ONLY the home page content a bit wider */
+.home-page .content {
+  max-width: 1200px;       /* overall width of Home page content */
   margin-left: auto;
   margin-right: auto;
 }

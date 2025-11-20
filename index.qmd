@@ -1,6 +1,7 @@
 ---
 title: ""
 page-title: false
+class: home-page
 ---
 
 ::: {.home-layout}
@@ -41,3 +42,6 @@ Before graduate school, I held policy and data analytics roles in France, South 
 :::
 
 :::
+
+
+
