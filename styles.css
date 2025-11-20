@@ -48,22 +48,24 @@ hr {
 
 
 /* --- Home page profile layout (Melissa-style) --- */
-
 .home-layout {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   align-items: flex-start;
   margin-top: 10px;
 
-  /* NEW / CHANGED */
-  gap: 40px;                 /* more space between columns */
-  justify-content: space-between;  /* push sidebar left, text right */
+  /* controls distance between image + welcome */
+  gap: 32px;
+
+  /* pushes everything to the left instead of centering */
+  justify-content: flex-start;
 }
+
 
 /* Left sidebar card */
 .home-sidebar {
-  flex: 0 0 3100px;
-  max-width: 310px;
+  flex: 0 0 300px;
+  max-width: 300px;
 }
 
 .home-card {
@@ -105,5 +107,5 @@ hr {
 
 /* Right main text column */
 .home-main {
-  flex: 1 1 0;
+  flex: 1 1 auto;
 }
