@@ -9,9 +9,9 @@ page-title: false
 I have had the opportunity to teach and serve as a teaching assistant for courses in comparative politics, research methods, and quantitative methods at Tulane University.  In my teaching, I try my very best to offer clear explanations of core concepts, provide structured guidance and practice in quantitative and computational social science, and help students connect abstract theories to real-world cases, especially in African politics, public policy, and political economy.
 
 
-### Courses as Instructor
+## Courses as Instructor
 
-#### Political Institutions, Ethnic Conflict, and Fiscal Policy  
+### Political Institutions, Ethnic Conflict, and Fiscal Policy  
 **Lecture Instructor**, Introduction to Comparative Politics  
 Tulane University, Spring 2024  
 
@@ -19,16 +19,16 @@ Delivered a guest lecture module, in my capacity as a teaching assistant for Int
 
 ---
 
-#### Ethics in Political Science Research  
+### Ethics in Political Science Research  
 **Guest Lecturer**, Scope and Methods  
 Tulane University, Fall 2023  
 
 Gave a guest lecture on research ethics, focusing on informed consent, confidentiality, power dynamics in fieldwork, and responsible use of administrative and survey data. The session emphasized practical ethical dilemmas that arise in social science research, particularly those that involved vulnerable populations.
 
 
-### Teaching Assistantships
+## Teaching Assistantships
 
-#### Scope and Methods (Undergraduate)  
+### Scope and Methods (Undergraduate)  
 **Teaching Assistant**, Tulane University  
 - Spring 2025 (with Prof. Virginia Oliveros)  
 - Fall 2023 (with Prof. Stan Oklobdzija)  
@@ -37,7 +37,7 @@ Supported students in learning core concepts in research design, causal inferenc
 
 ---
 
-#### Graduate Quantitative Methods  
+### Graduate Quantitative Methods  
 **Teaching Assistant**, Tulane University  
 - Fall 2024 (with Prof. Stan Oklobdzija)  
 
@@ -45,16 +45,16 @@ Assisted in an intensive graduate-level methods course covering linear regressio
 
 ---
 
-#### Introduction to Comparative Politics  
+### Introduction to Comparative Politics  
 **Teaching Assistant**, Tulane University  
 - Spring 2024 (with Prof. Moisés Arce)  
 
 Supported an introductory comparative politics course covering regime types, democratization, political institutions, and contentious politics. Responsibilities included grading, discussion support, and helping students connect course concepts to contemporary cases.
 
 
-### Workshops
+## Workshops
 
-#### R Programming Language for Data Analytics and Statistical Modelling  
+### R Programming Language for Data Analytics and Statistical Modelling  
 **Instructor**, Workshop Series  
 Tulane University, Fall 2024  
 
