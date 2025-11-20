@@ -52,9 +52,12 @@ hr {
 .home-layout {
   display: flex;
   flex-wrap: wrap;
-  gap: 32px;
   align-items: flex-start;
   margin-top: 10px;
+
+  /* NEW / CHANGED */
+  gap: 48px;                 /* more space between columns */
+  justify-content: space-between;  /* push sidebar left, text right */
 }
 
 /* Left sidebar card */
