@@ -32,7 +32,7 @@ class: home-page
 
 
 
-### Welcome!
+## Welcome!
 ---
 I am a PhD candidate in Political Science at [*Tulane University*](https://liberalarts.tulane.edu/political-science/people/graduate-students/ebenezermakinde). My ongoing dissertation project examines the political consequences of anti-corruption politicization. I study how governments use anti-corruption agencies (ACAs) strategically—sometimes to genuinely reduce corruption, and other times, to punish rivals and protect allies—and how these actions shape the behavior of political elites and citizens.
 
