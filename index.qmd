@@ -1,12 +1,13 @@
 ---
 title: ""
 page-title: false
+class: home-page
 ---
+
 
 :::{.columns}
 
-::: {.column width="30%"}
-
+::: {.column width="20%"}   <!-- LEFT: image/card -->
 ::: {.home-card}
 ![](images/profile.jpg){.home-photo fig-alt="Ebenezer O. Makinde"}
 
@@ -23,10 +24,9 @@ page-title: false
   <li>📚 <a href="https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en">Google Scholar</a></li>
 </ul>
 :::
-
 :::
 
-::: {.column width="70%"}
+::: {.column width="80%"}   <!-- RIGHT: Welcome text -->
 
 ## Welcome!
 

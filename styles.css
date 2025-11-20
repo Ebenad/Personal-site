@@ -83,3 +83,11 @@ hr {
 .home-links li {
   margin-bottom: 6px;
 }
+
+
+/* Make only the HOME page a bit wider so image and Welcome can breathe more */
+.home-page .content {
+  max-width: 1300px;   /* you can change this: 1100, 1250, etc. */
+  margin-left: auto;
+  margin-right: auto;
+}
