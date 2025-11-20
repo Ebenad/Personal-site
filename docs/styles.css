@@ -76,4 +76,12 @@ hr {
   display: block;
 }
 
+.home-photo {
+  width: 100px !important;      /* ← change this number to resize */
+  max-width: 120px !important;  /* ← makes it obey your width */
+  height: auto;
+  border-radius: 50%;           /* ← makes it round */
+  display: block;
+  margin-left: auto;
+}
 
