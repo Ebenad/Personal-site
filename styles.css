@@ -57,12 +57,14 @@ hr {
   margin: 0 auto 2rem auto;  /* center horizontally */
 }
 
-.home-page .home-photo {
+
+.home-photo {
   border-radius: 50%;
-  width: 180px;              /* size of your image */
-  flex-shrink: 0;
+  width: 180px;
   display: block;
+  margin: 0 auto 15px auto;
 }
+
 
 .home-page .home-text {
   flex: 1 1 auto;            /* this makes the Welcome side wide */
