@@ -56,14 +56,14 @@ hr {
   margin-top: 10px;
 
   /* NEW / CHANGED */
-  gap: 48px;                 /* more space between columns */
+  gap: 40px;                 /* more space between columns */
   justify-content: space-between;  /* push sidebar left, text right */
 }
 
 /* Left sidebar card */
 .home-sidebar {
-  flex: 0 0 280px;
-  max-width: 280px;
+  flex: 0 0 3100px;
+  max-width: 310px;
 }
 
 .home-card {
