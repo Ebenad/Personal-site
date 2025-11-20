@@ -26,7 +26,7 @@ format:
     css: styles.css
     page-layout: full       # valid values: article, full, custom
     grid:
-      body-width: 1000px    # keeps things from being too wide
+      body-width: 800px    # keeps things from being too wide
 
 
 
