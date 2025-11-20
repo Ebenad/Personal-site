@@ -50,12 +50,13 @@ hr {
 /* Melissa-style profile layout  */
 /* ============================= */
 
+/* old profile-card layout (kept in case you use it later) */
 .home-page .profile-layout {
   margin-top: 0.5rem;
 }
 
 .home-page .profile-sidebar {
-  /* left column already handled by Quarto widths */
+  /* left column handled by Quarto widths if used */
 }
 
 .home-page .profile-card {
@@ -66,12 +67,12 @@ hr {
   text-align: left;
 }
 
-/* circular photo like Melissa's */
+/* circular photo */
 .home-page .profile-photo {
   border-radius: 40%;
   width: 140px;
   display: block;
-  margin: 0 auto 15px auto;
+  margin: 0 0 15px 0;  /* align left, small space below */
 }
 
 .home-page .profile-name {
@@ -99,4 +100,25 @@ hr {
 /* right column (Welcome text) */
 .home-page .profile-main {
   /* width handled by Quarto; just spacing tweaks if needed */
+}
+
+/* ============================= */
+/* Home hero row: photo + bio side by side */
+/* ============================= */
+
+.home-page .home-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;           /* space between image block and bio text */
+  margin-top: 1.5rem;
+}
+
+/* left side (photo + contact) */
+.home-page .home-left {
+  flex: 0 0 auto;
+}
+
+/* right side (Welcome + bio) */
+.home-page .home-right {
+  flex: 1 1 auto;
 }
