@@ -3,31 +3,30 @@ title: ""
 page-title: false
 ---
 
-:::{.columns}
+::: {.home-layout}
 
-::: {.column width="40%"}
-![](profile.jpg){fig-alt="Ebenezer O. Makinde" style="border-radius: 12px; max-width: 100%; margin-top: 4px;"}
-:::
+::: {.home-sidebar}
+::: {.home-card}
 
-::: {.column width="70%"}
-### Ebenezer O. Makinde 
-**PhD Candidate in Political Science**  
-**[Tulane University](https://liberalarts.tulane.edu/political-science)**  
-:::
+![](images/profile.jpg){.home-photo fig-alt="Ebenezer O. Makinde"}
 
-:::
+<div class="home-name">Ebenezer O. Makinde</div>
+<div class="home-subtitle">
+  PhD Candidate in Political Science<br>
+  Tulane University
+</div>
 
-::: {.contact-box}
-
-### Contact & Profiles
-
-- ✉️ [Email](mailto:emakinde@tulane.edu)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ebenezer-makinde/)  
-- 💻 [GitHub](https://github.com/Ebenad)  
-- 📚 [Google Scholar](https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en)
+<ul class="home-links">
+  <li>✉️ <a href="mailto:emakinde@tulane.edu">Email</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/ebenezermakinde/">LinkedIn</a></li>
+  <li>💻 <a href="https://github.com/Ebenad">GitHub</a></li>
+  <li>📚 <a href="https://scholar.google.com/citations?user=L7VuBQUAAAAJ&hl=en">Google Scholar</a></li>
+</ul>
 
 :::
+:::
 
+::: {.home-main}
 
 ## Welcome!
 
@@ -39,6 +38,9 @@ In my other ongoing projects, I am examining the political economy of corruption
 
 Before graduate school, I held policy and data analytics roles in France, South Africa (remote), and Nigeria, including positions at SCOR Reinsurance and the African Leadership Academy. These experiences continue to inform my interest in evidence-based public policy and the design of institutions that promote government accountability and good governance.
 
+:::
+
+:::
 
 
 
