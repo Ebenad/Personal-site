@@ -4,8 +4,6 @@ date: 2022-06-05
 categories: [essay, reflections, philosophy]
 ---
 
-## The Minority Rule and the Spread of Evil
-
 It is not uncommon to feel depressed and lost when you read social media feeds these days. There is bad news everywhere, and it often feels like the world is coming to an end and that evil people have finally won. One argument is that news outlets gravitate toward negativity and the public is more attracted to shocking stories than uplifting ones. While that may be true, my focus here is different: I am interested in why evil people so often seem to have their way even though most people are good and kind.
 
 Nicholas Taleb’s idea of the *minority rule*, from his book *Skin in the Game*, helps explain this. The minority rule illustrates how intolerance often triumphs and how small, inflexible groups can dictate outcomes for the majority.

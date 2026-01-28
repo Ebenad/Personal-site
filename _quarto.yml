@@ -12,6 +12,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: working-papers.qmd
+        text: Working Papers
       - href: teaching.qmd
         text: Teaching
       - href: cv.qmd
@@ -21,12 +23,15 @@ website:
 
 format:
   html:
-    theme: flatly
-    toc: false
+    theme:
+      - flatly
+      - theme.scss
     css: styles.css
-    page-layout: full       # valid values: article, full, custom
+    toc: false
+    page-layout: full
     grid:
-      body-width: 650px    # keeps things from being too wide
+      body-width: 650px
+
 
 
 

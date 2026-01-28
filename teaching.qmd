@@ -6,57 +6,57 @@ page-title: false
 
 # Teaching Experiences
 
-I have had the opportunity to teach and serve as a teaching assistant for courses in comparative politics, research methods, and quantitative methods at Tulane University.  In my teaching, I try my very best to offer clear explanations of core concepts, provide structured guidance and practice in quantitative and computational social science, and help students connect abstract theories to real-world cases, especially in African politics, public policy, and political economy.
+I have had the opportunity to teach and serve as a teaching assistant for courses in comparative politics, research methods, and quantitative methods at Tulane University.  In my teaching roles, I try my very best to offer clear explanations of core concepts, provide structured guidance and practice in quantitative and computational social science, and help students connect abstract theories to real-world cases, especially in African politics, public policy, and political economy.
 
 
-## Courses as Instructor
+## 1. Instructional Roles
 
-### Political Institutions, Ethnic Conflict, and Fiscal Policy  
+### 1.1 Political Institutions, Ethnic Conflict, and Fiscal Policy  
 **Lecture Instructor**, Introduction to Comparative Politics  
-Tulane University, Spring 2024  
+  Tulane University, Spring 2024  
 
 Delivered a guest lecture module, in my capacity as a teaching assistant for Introduction to Comparative Politics, on how political institutions and ethnic cleavages shape conflict dynamics and fiscal policy choices in different countries. The session combined theoretical frameworks with empirical examples from Africa, Latin America and other regions, and introduced students to key debates in comparative political economy.
 
 ---
 
-### Ethics in Political Science Research  
+### 1.2 Ethics in Political Science Research  
 **Guest Lecturer**, Scope and Methods  
-Tulane University, Fall 2023  
+  Tulane University, Fall 2023  
 
 Gave a guest lecture on research ethics, focusing on informed consent, confidentiality, power dynamics in fieldwork, and responsible use of administrative and survey data. The session emphasized practical ethical dilemmas that arise in social science research, particularly those that involved vulnerable populations.
 
 
-## Teaching Assistantships
+## 2. Teaching Assistantships
 
-### Scope and Methods (Undergraduate)  
+### 2.1 Scope and Methods (Undergraduate)  
 **Teaching Assistant**, Tulane University  
-- Spring 2025 (with Prof. Virginia Oliveros)  
-- Fall 2023 (with Prof. Stan Oklobdzija)  
+  Spring 2025 (with Prof. Virginia Oliveros)  
+  Fall 2023 (with Prof. Stan Oklobdzija)  
 
 Supported students in learning core concepts in research design, causal inference, measurement, and basic statistics. Led discussion sections, held office hours, graded assignments, and provided feedback on research proposals and empirical projects.
 
 ---
 
-### Graduate Quantitative Methods  
+### 2.2 Graduate Quantitative Methods  
 **Teaching Assistant**, Tulane University  
-- Fall 2024 (with Prof. Stan Oklobdzija)  
+  Fall 2024 (with Prof. Stan Oklobdzija)  
 
 Assisted in an intensive graduate-level methods course covering linear regression, nonlinear probability models, regression discontinuity, difference-in-differences, and applied causal inference. Supported students with problem sets, coding in R, and empirical research applications.
 
 ---
 
-### Introduction to Comparative Politics  
+### 2.3 Introduction to Comparative Politics  
 **Teaching Assistant**, Tulane University  
-- Spring 2024 (with Prof. Moisés Arce)  
+ Spring 2024 (with Prof. Moisés Arce)  
 
 Supported an introductory comparative politics course covering regime types, democratization, political institutions, and contentious politics. Responsibilities included grading, discussion support, and helping students connect course concepts to contemporary cases.
 
 
-## Workshops
+## 3. Workshops
 
 ### R Programming Language for Data Analytics and Statistical Modelling  
 **Instructor**, Workshop Series  
-Tulane University, Fall 2024  
+  Tulane University, Fall 2024  
 
 Designed and led a workshop series, while serving as a teaching assistant for Graduate Quantitative Methods course, that introduced students to how to use R programming for data cleaning, visualization, and basic statistical modelling. Topics included data import and wrangling, descriptive analysis, regression models, and good practices for reproducible research.
 
