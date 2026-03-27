@@ -1,0 +1,15 @@
+---
+title: "Africa Needs to Achieve AI Sovereignty for Economic Development"
+date: 2026-02-25
+categories: [policy, ai, africa]
+---
+
+By Muhammed Alakitan & Ebenezer Makinde
+
+
+In 2026, AI is expected to enter a [new phase](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/#:~:text=entering%20a%20new%20phase). This phase will be shaped by quantum computing. It will allow large language models to generate hypotheses and take a more active role in scientific discovery. At the same time, there will be growing demand for hyperscalers and better contextualisation of trained data. 
+
+For Africa, 2026 is seen as a turning point. It is described as the year to move from strategies to policies, and from policies to actual implementation. These discussions are closely tied to sovereignty and economic growth. Because of these shifts, the ethics of user and data protection must be taken seriously now more than ever. Within this context, Nigeria’s experience helps build a broader understanding of the policy challenges surrounding AI regulation in Africa. 
+
+[Read Full Article](https://internet-policy-meco.sydney.edu.au/2026/02/africa-needs-to-achieve-ai-sovereignty-for-economic-development-this-is-what-it-can-do/)
+

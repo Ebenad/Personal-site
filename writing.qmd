@@ -7,5 +7,7 @@ listing:
   type: default
 ---
 
-Here you’ll find some of my non-academic writing, including book summaries,
-reflections, and commentary on politics, policy, and research. Thank you!
+Here you’ll find some of my other writings that fall outside my formal research and working papers.
+These include essays, book summaries, and opinions on topics related to politics, institutions, and public policies. 
+
+
