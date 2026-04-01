@@ -1,0 +1,46 @@
+---
+title: "Birthright Citizenship Is Not “Settled”,  We Should Stop Pretending It Is"
+date: 2026-03-31
+categories: [essay, reflections, philosophy]
+---
+
+The debate over birthright citizenship is back again after Supreme Court opened the floor for oral arguments. Having listened to both sides and read commentary on Twitter, Reddit and some news outlets, what I found most striking is the widespread assumption among critics of President Trump’s executive order that birthright citizenship is a settled matter. In many of these discussions, the very act of questioning that interpretation is treated as illegitimate or outside the bounds of reasonable debate. Courts have spoken, precedent exists, and the dominant interpretation of the Fourteenth Amendment is widely presented as obvious and beyond serious dispute. But this confidence is misplaced. The key constitutional phrase: “subject to the jurisdiction thereof” is neither as simple nor as settled as many claim.
+
+At the center of the issue is a basic question: What does “jurisdiction” mean?
+
+The prevailing interpretation equates jurisdiction with being subject to U.S. law. If a person can be arrested, prosecuted, or otherwise regulated by the government, then they are “under jurisdiction,” and their children, if born on U.S. soil, are citizens. This reading draws support from United States v. Wong Kim Ark, which affirmed birthright citizenship for a child born in the United States to non-citizen parents. But the reasoning in that case, while influential, is often extended beyond its specific facts and historical context (more on this point below). 
+
+A closer look at the historical record shows that the debates over the Fourteenth Amendment's citizenship clause perhaps cut in both directions, and that the sequence of statements matters. On May 23, 1866, Jacob Howard, who introduced the citizenship clause in the Senate stated that it would apply to "every person born within the limits of the United States, and subject to their jurisdiction," while excluding "persons born in the United States who are foreigners, aliens, who belong to the families of ambassadors or foreign ministers accredited to the Government of the United States, but will include every other class of persons." Supporters of broad birthright citizenship point to that final phrase: "every other class of persons" as evidence that Howard intended only a narrow diplomatic exclusion. However, one week later, on May 30, Howard explicitly endorsed the narrower definition offered by Lyman Trumbull who is the author of the Civil Rights Act of 1866 and chairman of the Senate Judiciary Committee stating that he "concurred entirely" with Trumbull's interpretation. Trumbull had defined "subject to the jurisdiction" as meaning "not owing allegiance to anybody else," and requiring being "subject to the complete jurisdiction of the United States." The fact that Howard endorsed this narrower definition after his broader statement suggests he may have been qualifying or clarifying what he originally meant. That said, neither statement can fully resolve the modern debate, since in 1866 there was no category of illegal alien and federal immigration restrictions did not yet exist. This means that the framers were simply not addressing the question of children born to those unlawfully present. 
+
+Defenders of the current interpretation rely heavily on precedent, particularly United States v. Wong Kim Ark (1898). But that case itself emphasized the absence of recognized exceptions beyond narrow categories such as diplomats and hostile occupiers, drawing heavily on English common law principles of jus soli and it did not directly confront the question of unlawful presence, nor did it resolve the tension between territorial birth and political allegiance that Trumbull and Howard had debated. Crucially, Wong Kim Ark involved the U.S.-born child of lawful permanent residents, and extending its reasoning to children of those unlawfully present requires an additional inferential step that is frequently assumed rather than demonstrated. And yet, in common media coverage, the case is often portrayed as having definitively settled birthright citizenship for all persons born on U.S. soil regardless of their parents' legal status. That portrayal oversimplifies both the facts of the case and the scope of its holding, and at minimum obscures the distinction between what the Court actually decided and the broader conclusions routinely drawn from it today.
+
+I agree that precedent can be powerful, and in this case, it supports birthright citizenship as it is currently applied. But precedent is not infallible. A careful reading of the debates that led to the Fourteenth Amendment suggests that the modern understanding of the Citizenship Clause may rest on assumptions that deserve closer scrutiny. During those debates, key figures such as Jacob Howard and Lyman Trumbull emphasized concepts of allegiance and political belonging when describing who would be included within the scope of citizenship. Trumbull, for example, defined “subject to the jurisdiction” as meaning “not owing allegiance to anybody else”, and Howard agreed with him. This language points to a more substantive understanding of jurisdiction, one that is tied to membership in the political community, rather than mere physical presence or exposure to law.
+
+If that is correct, then the modern interpretation which treats virtually all persons born on U.S. soil as citizens, regardless of the legal status or allegiance of their parents may reflect an expansion beyond what the framers originally intended. At the very least, it suggests that the issue is more complex than often acknowledged. None of this is to deny the weight of precedent or the practical considerations that have shaped current doctrine. It is simply to insist that precedent should not be treated as beyond question, especially where the underlying constitutional text contains a limiting phrase whose meaning remains contested. 
+
+To be clear, I am not saying that the answer is obvious or that a narrower interpretation of birthright citizenship is the only plausible one as President Trump is trying to claim. It is to make a more modest but essential point: the issue is not settled, and it is not as clear-cut as often presented and President Trump is not crazy to challenge the current interpretation of "subject to the jurisdiction thereof." The very fact that the Supreme Court has agreed to hear this case suggests that the question is not as conclusively resolved as some claim. Courts do not revisit issues they regard as entirely beyond dispute. Pretending that this is a settled issue does a disservice to constitutional debate. It replaces genuine debate with false certainty and treats a contested reading as if it were beyond question. 
+
+In my view, even if the Supreme Court ultimately rejects President Trump’s executive order and upholds birthright citizenship, which I believe is the likely outcome, it will not necessarily mean that he was wrong to challenge the Citizenship Clause. It may instead reflect the limits of the tool he chose (like the EO), or the Court’s judgment that existing precedent and institutional stability outweigh the case for revisiting the current interpretation of “subject to the jurisdiction thereof.” That outcome would not resolve the underlying question or claim that the Trump's administration is making. It would simply reaffirm a particular interpretation, one that, as argued here, is neither unquestionable nor beyond reconsideration. The existence of a plausible alternative reading, grounded in text and history, is enough to show that the issue remains open to serious constitutional debate and one that will continue to be debated unless Congress acts, whether by using legislation to clarify the scope of the clause or, if necessary, by constitutional amendment to definitely settle what "subject to the jurisdiction thereof" was always meant to mean.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
