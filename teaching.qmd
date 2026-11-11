@@ -3,61 +3,62 @@ title: ""
 page-title: false
 ---
 
+# Teaching
+My teaching experience at Tulane University includes leading undergraduate discussion sections, supporting graduate quantitative methods class, delivering guest lectures, and facilitating R workshops. In methods instruction, I help students build confidence in research design and data analysis. 
 
-# Teaching Experiences
+## Teaching Assistantships
+All appointments below are in the Department of Political Science at Tulane University and include leading weekly discussion sections and grading.
 
-I have had the opportunity to teach and serve as a teaching assistant for courses in comparative politics, research methods, and quantitative methods at Tulane University.  In my teaching roles, I try my very best to offer clear explanations of core concepts, provide structured guidance and practice in quantitative and computational social science, and help students connect abstract theories to real-world cases, especially in African politics, public policy, and political economy.
+### **Introduction to Comparative Politics**
 
+- **Fall 2026:** Prof. Andrew Leber
+- **Spring 2024:** Prof. Moisés Arce
 
-## 1. Instructional Roles
-
-### 1.1 Political Institutions, Ethnic Conflict, and Fiscal Policy  
-**Lecture Instructor**, Introduction to Comparative Politics  
-  Tulane University, Spring 2024  
-
-Delivered a guest lecture module, in my capacity as a teaching assistant for Introduction to Comparative Politics, on how political institutions and ethnic cleavages shape conflict dynamics and fiscal policy choices in different countries. The session combined theoretical frameworks with empirical examples from Africa, Latin America and other regions, and introduced students to key debates in comparative political economy.
-
----
-
-### 1.2 Ethics in Political Science Research  
-**Guest Lecturer**, Scope and Methods  
-  Tulane University, Fall 2023  
-
-Gave a guest lecture on research ethics, focusing on informed consent, confidentiality, power dynamics in fieldwork, and responsible use of administrative and survey data. The session emphasized practical ethical dilemmas that arise in social science research, particularly those that involved vulnerable populations.
-
-
-## 2. Teaching Assistantships
-
-### 2.1 Scope and Methods (Undergraduate)  
-**Teaching Assistant**, Tulane University  
-  Spring 2025 (with Prof. Virginia Oliveros)  
-  Fall 2023 (with Prof. Stan Oklobdzija)  
-
-Supported students in learning core concepts in research design, causal inference, measurement, and basic statistics. Led discussion sections, held office hours, graded assignments, and provided feedback on research proposals and empirical projects.
+I support students in understanding political institutions, regime types, democratization, and contentious politics. Through discussion sections and feedback on assignments, I help students compare political systems and apply course concepts to contemporary events.
 
 ---
 
-### 2.2 Graduate Quantitative Methods  
-**Teaching Assistant**, Tulane University  
-  Fall 2024 (with Prof. Stan Oklobdzija)  
+### **Scope and Methods**
 
-Assisted in an intensive graduate-level methods course covering linear regression, nonlinear probability models, regression discontinuity, difference-in-differences, and applied causal inference. Supported students with problem sets, coding in R, and empirical research applications.
+- **Spring 2025:** Prof. Virginia Oliveros
+- **Fall 2023:** Prof. Stan Oklobdzija
+
+I help undergraduate students develop foundational skills in political science research, including formulating research questions, evaluating evidence, measurement, and causal inference. My responsibilities include leading discussion sections, holding office hours, and providing feedback on research proposals and empirical assignments.
 
 ---
 
-### 2.3 Introduction to Comparative Politics  
-**Teaching Assistant**, Tulane University  
- Spring 2024 (with Prof. Moisés Arce)  
+### **Quantitative Methods 1 — Graduate**
 
-Supported an introductory comparative politics course covering regime types, democratization, political institutions, and contentious politics. Responsibilities included grading, discussion support, and helping students connect course concepts to contemporary cases.
+- **Fall 2024:** Prof. Stan Oklobdzija
+
+I supported graduate students in statistical analysis and applied research using R. The course covered regression models and approaches to causal inference, including regression discontinuity and difference-in-differences. I helped students work through problem sets, interpret statistical results, and apply quantitative methods to substantive research questions.
 
 
-## 3. Workshops
+## Guest Lectures
 
-### R Programming Language for Data Analytics and Statistical Modelling  
-**Instructor**, Workshop Series  
-  Tulane University, Fall 2024  
+### **Ethnic Politics and Conflicts**
 
-Designed and led a workshop series, while serving as a teaching assistant for Graduate Quantitative Methods course, that introduced students to how to use R programming for data cleaning, visualization, and basic statistical modelling. Topics included data import and wrangling, descriptive analysis, regression models, and good practices for reproducible research.
+*Introduction to Comparative Politics | November 4, 2026*  
+*Invited by Prof. Andrew Leber, Tulane University*
 
+I delivered a guest lecture on why ethnic identities become politically salient and how they shape cooperation and conflict. The session introduced essentialist, instrumentalist, constructivist, and institutionalist explanations of ethnic politics. Using examples from Kenya, Nigeria, Malawi, and Zambia, I guided students through how historical processes, political incentives, institutions, and group size shape ethnic mobilization.
+
+---
+
+
+### **Political Institutions, Ethnic Conflict, and Fiscal Policy**
+
+*Introduction to Comparative Politics | Spring 2024*  
+*Invited by Prof. Moisés Arce, Tulane University*
+
+I delivered a guest lecture examining how political institutions and ethnic cleavages shape conflict dynamics and fiscal policy. The session connected comparative political economy theories to empirical examples from Africa, Latin America, and other regions.
+
+---
+
+### **Ethics in Political Science Research**
+
+*Scope and Methods | Fall 2023*  
+*Invited by Prof. Stan Oklobdzija, Tulane University*
+
+I delivered a guest lecture on informed consent, confidentiality, power dynamics in fieldwork, and the responsible use of administrative and survey data. The session explored practical ethical dilemmas in social science research, particularly research involving vulnerable populations.
 

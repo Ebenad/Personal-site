@@ -3,9 +3,9 @@ title: ""
 page-title: false
 ---
 
-# Published Papers
+# Peer-Reviewed Publications
 
-### 1. **Where are the ethics? AI and the digital economy in Nigeria**  
+### **Where are the ethics? AI and the digital economy in Nigeria**  
 *Policy & Internet (2025), with M. Alakitan*  
 
 This article investigates the ethical and governance challenges that accompany the rapid expansion of digital technologies and AI systems in Nigeria. We identify gaps in regulatory oversight and data protection that expose citizens to privacy violations and other digital harms. The paper argues for a stronger ethical and policy framework to guide responsible AI adoption in Nigeria’s public and private sectors.  
@@ -13,24 +13,7 @@ This article investigates the ethical and governance challenges that accompany t
 
 ---
 
-### 2. **Leveraging artificial intelligence for enhanced tax fraud detection in modern fiscal systems**  
-*GSC Advanced Research and Reviews (2024), with K.O. Ariyibi, O.F. Bello, T.F. Ekundayo, O.I. Oladepo, and I.U. Wada*
-
-This paper examines how artificial intelligence (AI) can strengthen modern tax administration by improving the detection and prevention of tax fraud. Drawing on machine learning, deep learning, and natural language processing techniques, the review evaluates how AI systems identify suspicious patterns and anomalies far more accurately than traditional rule-based methods, with some jurisdictions reporting up to an 85% improvement in fraud detection rates.  
-[Read Article](https://doi.org/10.30574/gscarr.2024.21.2.0415)
-
----
-
-
-### 3. **Harnessing artificial intelligence to optimize financial technologies for achieving sustainable development goals**  
-*World Journal of Advanced Research and Reviews (2024), with O. Elias, S.D. Esebre, I. Abijo, M.T. Adesina, T.D. Babayemi, O.I. Oladepo, and I.E. Fatoki*  
-
-This paper reviews how artificial intelligence is transforming financial technologies (FinTech) in ways that advance the United Nations Sustainable Development Goals (SDGs). It highlights how machine learning, natural language processing, and computer vision enhance financial inclusion, improve credit scoring and risk assessment, strengthen fraud detection, and expand access to financial services—particularly in underserved populations.  
-[Read Article](https://doi.org/10.30574/wjarr.2024.23.2.2385)
-
----
-
-### 4. **International political contexts, digital technologies, and political outcomes in Nigeria’s #EndSARS movement**  
+### **International political contexts, digital technologies, and political outcomes in Nigeria’s #EndSARS movement**  
 *Protest (2024), 4(1), 5–29*  
 
 When do social movements achieve political outcomes? Existing research points to two key explanations: movements’ organizational infrastructure and the political opportunities structure. Focusing on the 2020 #EndSARS protest in Nigeria, I build on this literature to understand how and why social movements may achieve policy outcomes when social movements’ infrastructure and domestic political opportunities are relatively absent.

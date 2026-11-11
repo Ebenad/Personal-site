@@ -6,10 +6,38 @@ page-title: false
 
 # Working Papers
 
-### 1. **Who Gets Convicted? The Political Economy of Corruption Prosecution Outcomes in Nigeria**  
+### 1. **Who Gets Convicted? The Political Economy of Corruption Prosecution Outcomes in Nigeria**
+*With Muhammed Alakitan*
 
-This project studies the determinants of outcomes of corruption prosecution in Nigeria using original dataset on more than two decades of corruption prosecution cases. I assess how the financial resources available to the defendants and their socio-economic standings influence whether they are convicted or acquitted. 
+This project examines why corruption and financial crime prosecutions in Nigeria produce different outcomes across defendants. Using a dataset of more than 6,000 trials, we assess how the relative balance of power between prosecutors and defendants shapes the likelihood and speed of conviction or acquittal.
 
 ---
+
+### 2. **The Politicization of Corruption Investigations in Comparative Perspective**
+
+This project examines how electoral politics shapes anti-corruption enforcement across countries. Using cross-national event data, the paper examines patterns in reported corruption investigations involving political elites.
+
+---
+
+### 3. **Anti-Corruption Politicization in Nigeria**
+
+Why do some corruption allegations against politicians lead to prosecution while others do not? This project examines the progression from allegations and investigations to formal prosecution in Nigeria. Using an original dataset of cases involving political elites, it assesses how political relationships and institutional contexts shape which allegations reach the courts.
+
+
+
+
+---
+
+### 4. **Why Do Some Pro-Government Militias Remobilize as Rebels? Ethnic Social Foundations and Militia Blowback**
+*With Olusegun Somide | Under review*
+
+This paper examines why some pro-government militias become rebel groups after their relationship with the state ends. We combined statistical analysis with systematic within-case process tracing to investigate how militias’ social foundations shape their capacity to remobilize as armed opposition.
+
+
+
+
+
+
+
 
 
